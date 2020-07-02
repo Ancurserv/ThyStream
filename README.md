@@ -16,6 +16,7 @@
 - [ ] Setup WebView
 - [ ] Implement Streaming feature 
 - [ ] Release private Alpha Build
+- [ ] Release Video Demo
 - [ ] Release private Beta Build
 - [ ] Release to Playstore
 
