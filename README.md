@@ -10,7 +10,7 @@
 - [x] Implement Loading Screen
 - [x] Working search feature
 - [x] Functional
-- [ ] Implement Introductory Dialog
+- [x] Implement Introductory Dialog
 - [ ] Implement Ads per Main Activity startup
 - [ ] Setup Commercial Server
 - [ ] Setup Firebase
