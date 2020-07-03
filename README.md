@@ -10,6 +10,7 @@
 - [x] Implement Loading Screen
 - [x] Working search feature
 - [x] Functional
+- [ ] Implementat Nav drawer containing additional information
 - [ ] Implement Ads per Main Activity startup
 - [ ] Setup Commercial Server
 - [ ] Setup Firebase
