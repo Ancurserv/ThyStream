@@ -11,7 +11,7 @@
 - [x] Working search feature
 - [x] Functional
 - [x] Implement Introductory Dialog
-- [ ] Create Logo
+- [x] Create Logo
 - [ ] Implement Ads per Main Activity startup
 - [ ] Setup Commercial Server
 - [ ] Setup Firebase
