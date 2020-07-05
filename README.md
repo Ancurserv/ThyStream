@@ -22,3 +22,4 @@
 - [ ] Release private Beta Build
 - [ ] Release to Playstore
 
+[FAQ](https://github.com/Ancurserv/ThyStream/wiki/FAQ)
