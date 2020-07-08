@@ -15,7 +15,7 @@
 - [ ] Implement Ads per Main Activity startup
 - [ ] Setup Commercial Server
 - [ ] Setup Firebase
-- [ ] Setup WebView
+- [x] Setup WebView
 - [ ] Implement Streaming feature 
 - [ ] Release private Alpha Build
 - [ ] Release Video Demo
