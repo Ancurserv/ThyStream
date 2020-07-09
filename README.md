@@ -3,6 +3,8 @@
 ![tia6334017658178929074](https://user-images.githubusercontent.com/67490632/86341186-93ead100-bc1b-11ea-825d-d59754acc0a2.png)
 ![tia4207455729927608207](https://user-images.githubusercontent.com/67490632/86341190-94836780-bc1b-11ea-862d-a17fb727159d.png)
 ![tia2883508720082423663](https://user-images.githubusercontent.com/67490632/86527564-b5d79400-be65-11ea-83aa-0f364ec2ce52.png)
+![tia8384105525153968501](https://user-images.githubusercontent.com/67490632/87039414-1e53a780-c1bd-11ea-9f78-a1371c26510e.png)
+![tia5777387624163723144](https://user-images.githubusercontent.com/67490632/87039395-18f65d00-c1bd-11ea-8d7d-1fbbf6c6eaf8.png)
 
 - [x] Add Showcases
 - [x] Implement Notification
