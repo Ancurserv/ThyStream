@@ -18,7 +18,7 @@
 - [ ] Setup Commercial Server
 - [ ] Setup Firebase
 - [x] Setup WebView
-- [ ] Implement Streaming feature 
+- [x] Implement Streaming feature 
 - [ ] Release private Alpha Build
 - [ ] Release Video Demo
 - [ ] Release private Beta Build
