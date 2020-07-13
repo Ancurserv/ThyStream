@@ -15,6 +15,7 @@
 - [x] Implement Introductory Dialog
 - [x] Create Logo
 - [ ] Implement Ads per Main Activity startup
+- [ ] Implement chatting feature.
 - [ ] Setup Commercial Server
 - [ ] Setup Firebase
 - [x] Setup WebView
