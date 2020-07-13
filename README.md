@@ -14,8 +14,14 @@
 - [x] Functional
 - [x] Implement Introductory Dialog
 - [x] Create Logo
-- [ ] Implement Ads per Main Activity startup
-- [ ] Implement chatting feature.
+
+{
+- [ ] Implement Donation feature
+- [ ] Implement chatting feature(pay to use)
+
+***Thanks to CapLevi for suggesting these features***
+
+}
 - [ ] Setup Commercial Server
 - [ ] Setup Firebase
 - [x] Setup WebView
