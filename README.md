@@ -5,7 +5,7 @@
 ![tia2883508720082423663](https://user-images.githubusercontent.com/67490632/86527564-b5d79400-be65-11ea-83aa-0f364ec2ce52.png)
 ![tia8384105525153968501](https://user-images.githubusercontent.com/67490632/87039414-1e53a780-c1bd-11ea-9f78-a1371c26510e.png)
 ![tia5777387624163723144](https://user-images.githubusercontent.com/67490632/87039395-18f65d00-c1bd-11ea-8d7d-1fbbf6c6eaf8.png)
-
+![tia1504337973775680544](https://user-images.githubusercontent.com/67490632/87273416-0cb51d00-c4a7-11ea-9fce-1ade6842cd0e.png)
 - [x] Add Showcases
 - [x] Implement Notification
 - [x] Implement Session ID generator
