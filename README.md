@@ -19,7 +19,7 @@
 - [ ] Implement Donation feature
 - [ ] Implement chatting feature(pay to use)
 
-***Thanks to Trex for suggesting these features***
+***Thanks to CapLevi for suggesting these features***
 
 }
 - [ ] Setup Commercial Server
