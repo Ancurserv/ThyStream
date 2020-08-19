@@ -33,4 +33,5 @@
 - [ ] Release to Playstore
 
 [FAQ](https://github.com/Ancurserv/ThyStream/wiki/FAQ)
+
 [Beta Testing - Join](https://discord.gg/a2Z5uqa)
