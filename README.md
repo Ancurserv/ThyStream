@@ -27,7 +27,8 @@ Each user gets a Session ID that lasts for 24 hours, the reason for the Session 
 
 1. You can start a stream by simply using your mobile device, a lot of other services e.g. Netflix, Kast won't allow you to setup a streaming room/party unless you have a PC, however that isn't the case for Thystream.
 
-2. Thystream doesn't prioritize UI color schemes or any of that nonsense, I'm an experienced C/C++ developer so I could careless about UI design, Performance matters and Thystream does prioritize Speed and Security, it uses a particular algorithm for streaming video feed while consuming less data, it also alarms a person when someone else is buffering, so you won't have to worry about constantly asking someone "is it working for you", because if it stops working for them then it will stop working for you.
+2. Thystream is a stream sharing application so performance has to be more prioritized than UI, unless you want to spend your time watching laggy videos or constantly run into server bugs. I'm an experienced C/C++ developer so I could careless about UI design, the UI design is decent but Performance matters as well and Thystream does prioritize Speed and Security, it uses a particular algorithm for streaming high-quality video feed while consuming less data, it also alarms a person when someone else is buffering, so you won't have to worry about constantly asking someone "is it working for you", because if it stops working for them then it will stop working for you, each feature within the application is lightweight as well meaning none of it causes stress on the client side nor server-side and in fact helps increases improvement of optimization.
+
 
 # Credits:
 
