@@ -20,7 +20,7 @@ Each user gets a Session ID that lasts for 24 hours, the reason for the Session 
 
 
 * Command activation - Are you tired of having to click on a show and then click on the episode that you want to watch? Thystream will allow you to simply type in the show with the season and episode and it will start the video for you specifically for that season and episode. e.g.
-"Attack on Titan season 2 episode 1"(you can also put s2 or ep1).
+"Attack on Titan season 2 episode 1"(you can also put s2 or ep1).)
 
 
 # What makes Thystream a better choice for stream sharing?
@@ -28,4 +28,12 @@ Each user gets a Session ID that lasts for 24 hours, the reason for the Session 
 1. You can start a stream by simply using your mobile device, a lot of other services e.g. Netflix, Kast won't allow you to setup a streaming room/party unless you have a PC, however that isn't the case for Thystream.
 
 2. Thystream doesn't prioritize UI color schemes or any of that nonsense, I'm an experienced C/C++ developer so I could careless about UI design, Performance matters and Thystream does prioritize Speed and Security, it uses a particular algorithm for streaming video feed while consuming less data, it also alarms a person when someone else is buffering, so you won't have to worry about constantly asking someone "is it working for you", because if it stops working for them then it will stop working for you.
+
+# Credits:
+
+***"Trex" - my friend, the Business model/features contributor.***
+
+***"K" - my ex-friend, and is the reason for the creation of this project.***
+
+
 
