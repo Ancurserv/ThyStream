@@ -56,7 +56,7 @@ Nothing would happen to you, all Session IDs are unique and cannot be recreated.
 
 ***"Trex" - my friend, the Business model/features contributor.***
 
-***"K" - my ex-friend, and is the reason for the creation of this project.***
+***"K" - my friend, and is the reason for the creation of this project.***
 
 
 # Links
