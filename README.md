@@ -1,5 +1,5 @@
 # ThyStream
-# (Release date is postponed because of hardware issues relating to my testing device)
+# (Project status: not getting released soon.)
 
 ![tia1107626773434183372](https://user-images.githubusercontent.com/67490632/91011126-5c5c2d80-e5a9-11ea-9ecd-a00b4df1cd68.png)
 ![tia8144103043321198582](https://user-images.githubusercontent.com/67490632/91011137-61b97800-e5a9-11ea-85f9-aa8f0b768dfd.png)
