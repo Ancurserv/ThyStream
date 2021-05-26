@@ -64,4 +64,4 @@ Nothing would happen to you, all Session IDs are unique and cannot be recreated.
 
 [FAQ](https://github.com/Ancurserv/ThyStream/wiki/FAQ)
 
-[Beta Testing - Join](https://discord.gg/a2Z5uqa)
+[Beta Testing - Join](https://discord.gg/a2Z5uqa)(Not In use anymore)
